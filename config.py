@@ -9,7 +9,7 @@ from pyrogram.errors.exceptions.flood_ import FloodWait
 
 
 # Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6816697601:AAGCrvoUgsZAhP5cCQC8ywtImNOmT52Ns8w")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7433238930:AAEUv4hrv5CWrcLCaNxE-_bAXF2YiefEbm4")
 
 # Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "29580054"))
